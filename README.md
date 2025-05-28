@@ -10,8 +10,7 @@ This interactive HR analytics dashboard was created using Microsoft Power BI to 
 
 ## 📁 Files
 - `HR_Analytics_Dashboard.pbix` – main Power BI dashboard file
-- `dashboard_screenshot.png` – preview of the dashboard
-- `HR_Analytics_Dashboard.pdf` – exported report (optional)
+- `HR_Analytics_Dashboard.pdf` – exported report
 
 ## 🧠 Insights
 The dashboard enables analysis of:
@@ -24,5 +23,4 @@ The dashboard enables analysis of:
 - Power BI Desktop
 - DAX for calculated measures
 - GitHub for project versioning and sharing
-
 ---
