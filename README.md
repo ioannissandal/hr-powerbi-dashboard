@@ -26,6 +26,3 @@ The dashboard enables analysis of:
 - GitHub for project versioning and sharing
 
 ---
-
-🧑‍💼 Suitable for portfolio, internships, or business analyst roles.
-
